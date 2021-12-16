@@ -10,7 +10,7 @@ url: "http://chyyang"  # 此处填写你的博客地址
 owner: 
   name: "YCY" # 填写作者信息：名字
   email: 975878228@qq.com # 填写作者信息：邮箱
-  bio: "你的博客描述" # 填写作者信息：博客描述
+  bio: "阳春召我以烟景，大块假我以文章" # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
