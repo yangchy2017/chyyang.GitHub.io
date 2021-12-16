@@ -1,22 +1,23 @@
-## HCZ Material theme
+## 说明
 
-This is a simple personal material theme, best suited for personal authors, programmars, bloggers. 
+此博客模板 Fork 自仓库：[cnfeat/blog.io: 简单直接可用博客模板](https://github.com/cnfeat/blog.io)
 
-### Demo
-* [https://codeasashu.github.io/hcz-jekyll-blog](https://codeasashu.github.io/hcz-jekyll-blog/)
+配套说用说明：[如何搭建一个独立博客——简明 GitHub Pages与 jekyll 教程 - 读立写生](http://www.cnfeat.com/blog/2014/05/10/how-to-build-a-blog/)
 
-#### Feature
+## 博客模板修订清单
 
-* Sitemap and XML Feed
-* Site Search 
-* Projects and tags
-* Paginations in homepage
-* Posts under category
-* Related Posts
-* Highlight pre
-* Next & Previous Post
-* Disqus comment
+文档内有详细注释，可按注释逐个修订
 
-#### Screenshot
+* 博客名字、作者信息、浏览器小图标等：_config.yml 
+* 个人介绍页面：about.md
+* 代表作页面：milestone.md
+* 文章模板：blog.io/_posts/2015-03-02-how-to-write.md 
+* 
 
-![Screenshot Home Page](https://raw.githubusercontent.com/ashutosh2k12/jekyllthemes/master/thumbnails/hcz-material.png  "Screenshot Home Page")
+## 模板作者
+
+陈素封，博客：独立写生：[cnfeat.com](cnfeat.com)
+
+联系方式：cnfeat@gmail.com
+
+
